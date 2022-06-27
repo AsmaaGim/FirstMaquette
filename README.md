@@ -1,4 +1,4 @@
 # essaie
 ## premiere page
-# ajout fichier '.gitignior'
+### ajout fichier '.gitigniore'
 
