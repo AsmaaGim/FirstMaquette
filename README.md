@@ -1,4 +1,4 @@
 # essaie
 ## premiere page
-### ajout fichier '.gitigniore'
+### ajout fichier '.gitignore'
 
